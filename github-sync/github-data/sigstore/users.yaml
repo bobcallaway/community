@@ -1,9 +1,4 @@
 users:
-  - username: Dentrax
-    role: member
-    teams:
-      - name: cosign-codeowners
-        role: member
   - username: SantiagoTorres
     role: admin
     teams:
@@ -20,11 +15,6 @@ users:
     role: member
     teams:
       - name: sigstore-conformance-codeowners
-        role: member
-  - username: asraa
-    role: member
-    teams:
-      - name: sigstore-rs-codeowners
         role: member
   - username: bdehamer
     role: member
@@ -104,25 +94,6 @@ users:
         role: maintainer
       - name: gitsign-codeowners
         role: member
-  - username: cstamas
-    role: member
-    teams:
-      - name: codeowners-maven-sigstore
-        role: member
-  - username: dekkagaijin
-    role: member
-    teams:
-      - name: cosign-codeowners
-        role: member
-      - name: cosign-installer-codeowners
-        role: member
-      - name: sigstore-codeowners
-        role: member
-  - username: developer-guy
-    role: member
-    teams:
-      - name: cosign-codeowners
-        role: member
   - username: di
     role: member
     teams:
@@ -131,10 +102,6 @@ users:
   - username: dlorenc
     role: member
     teams:
-      - name: cosign-installer-codeowners
-        role: maintainer
-      - name: fulcio-codeowners
-        role: maintainer
       - name: helm
         role: maintainer
       - name: policy-controller-codeowners
@@ -197,8 +164,6 @@ users:
     teams:
       - name: helm
         role: member
-  - username: font
-    role: member
   - username: haydentherapper
     role: admin
     teams:
@@ -264,12 +229,6 @@ users:
         role: member
       - name: gitsign-codeowners
         role: member
-  - username: inferno-chromium
-    role: member
-    teams: []
-  - username: JAORMX
-    role: member
-    teams: []
   - username: javanlacerda
     role: member
     teams: []
@@ -295,11 +254,6 @@ users:
     teams:
       - name: codeowners-maven-sigstore
         role: maintainer
-  - username: jyotsna-penumaka
-    role: member
-    teams:
-      - name: sigstore-rs-codeowners
-        role: member
   - username: k4leung4
     role: member
     teams:
@@ -350,9 +304,6 @@ users:
     teams:
       - name: codeowners-sigstore-website
         role: member
-  - username: luhring
-    role: member
-    teams:
   - username: lukehinds
     role: admin
     teams:
@@ -397,23 +348,6 @@ users:
         role: member
       - name: timestamp-codeowners
         role: member
-  - username: mattmoor
-    role: member
-    teams:
-      - name: fulcio-codeowners
-        role: member
-      - name: cosign-codeowners
-        role: member
-  - username: mdunbavan
-    role: member
-    teams:
-      - name: codeowners-sigstore-website
-        role: member
-  - username: michael-o
-    role: member
-    teams:
-      - name: codeowners-maven-sigstore
-        role: member
   - username: mihaimaruseac
     role: member
     teams:
@@ -451,11 +385,6 @@ users:
         role: member
       - name: Core Team
         role: maintainer
-  - username: puerco
-    role: member
-    teams:
-      - name: triage
-        role: member
   - username: pwelch
     role: member
     teams:
@@ -536,9 +465,6 @@ users:
         role: member
       - name: sigstore-conformance-codeowners
         role: member
-  - username: yrobla
-    role: member
-    teams: []
   - username: yuji-watanabe-jp
     role: member
     teams:
